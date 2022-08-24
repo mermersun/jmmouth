@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS jmstudios;
+CREATE DATABASE jmstudios DEFAULT CHARSET UTF8;
+USE jmstudios;
+
